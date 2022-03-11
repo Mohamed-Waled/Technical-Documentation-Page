@@ -15,8 +15,8 @@ This is a solution to the [Build a Technical Documentation Page](https://www.fre
 
 ### Screenshot
 
-![]()
-![]()
+![](https://raw.githubusercontent.com/Mohamed-Waled/Technical-Documentation-Page/main/Images/Screenshot%202022-03-11%20at%2010-40-38%20Technical%20Documentation%20Page.png)
+![](https://raw.githubusercontent.com/Mohamed-Waled/Technical-Documentation-Page/main/Images/Screenshot%202022-03-11%20at%2010-41-13%20Technical%20Documentation%20Page.png)
 
 ### Links
 
