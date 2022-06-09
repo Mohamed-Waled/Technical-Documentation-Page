@@ -20,7 +20,6 @@ This is a solution to the [Build a Technical Documentation Page](https://www.fre
 
 ### Links
 
-- Solution URL: [Solution URL here](https://codepen.io/mohamed-waled-the-styleful/pen/yLXwgdp)
 - Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Technical-Documentation-Page/)
 
 ## My process
